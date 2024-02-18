@@ -1,5 +1,5 @@
 # Health_App
-Overview
+
 The Health App is a Java-based mobile application designed to help users monitor and manage their health and fitness. The app provides a user-friendly interface, allowing individuals to track their physical activities, record vital signs, and set health goals.
 Features
 •	Activity Tracking: Record and monitor various physical activities, such as running, walking, and cycling.
